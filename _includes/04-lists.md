@@ -1,0 +1,2 @@
+- [ ] The last book I read was Stamped From the Beginning
+- [ ] My favorite food is fruit!
