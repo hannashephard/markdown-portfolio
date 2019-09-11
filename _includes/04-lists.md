@@ -1,1 +1,2 @@
-Replace this with a list of your favorite things.
+- [ ] The last book I read was Stamped From the Beginning
+- [ ] My favorite food is fruit!
